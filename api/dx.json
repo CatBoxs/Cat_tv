@@ -1,0 +1,37 @@
+{
+    "urls": [
+        {
+            "url": "https://gitee.com/soundy-dust/cat_-tv/raw/master/api/api.json",
+            "name": "有声尘"
+        },
+        {
+            "url": "https://gitee.com/soundy-dust/cat_-tv/raw/master/api/cs.json",
+            "name": "测试"
+        },
+        {
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "TVBox"
+        },
+        
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼儿"
+        },
+        {
+            "url": "http://清清.摸鱼儿.top",
+            "name": "摸鱼4K"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv/",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://like.肥猫.com/你好",
+            "name": "肥猫"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "OK"
+        }
+    ]
+}
