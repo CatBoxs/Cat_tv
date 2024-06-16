@@ -128,18 +128,21 @@
             ]
         },
         {
-            "key": "二爷影院",
+            "key": "喵派对资源网",
             "name": "官_D",
             "type": 1,
-            "api": "http://qu.lzxq.vip/api.php/provide/vod/", // 61485
-            "playUrl": "json:https://w8s.top/?url=", //    https://w8s.top/?url=  https://b.lzxq.vip/player/?url=
+            "api": "https://www.lezy.lol/api.php/provide/vod/at/json/", //  69823
+            "playUrl": "https://bfq.lezy.lol/?url=", //   https://www.iqiyi.lol/videolg/?url=  https://www.iqiyi.lol/videos/?url= 
+            "playerType": 1,
             "searchable": 1,
-            "quickSearch": 1,
+            "changeable": 1,
+            "quickSearch": 0,
             "categories": [
-                "电影",
-                "电视剧",
+                "动漫",
                 "综艺",
-                "动漫"
+                "国产剧",
+                "预告片",
+                "电影解说"
             ]
         },
         {
