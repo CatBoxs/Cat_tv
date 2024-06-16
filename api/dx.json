@@ -5,10 +5,6 @@
             "name": "有声尘"
         },
         {
-            "url": "./cs.json",
-            "name": "测试"
-        },
-        {
             "url": "https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json",
             "name": "TVBox"
         },
