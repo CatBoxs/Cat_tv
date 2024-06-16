@@ -44,7 +44,7 @@
         },
         {
             "key": "华为资源",
-            "name": "华为吧|有广勿信",
+            "name": "官_备用",
             "type": 1,
             "api": "https://hw8.live/api.php/provide/vod/?ac=list", // 83862
             "playUrl": "https://dp.hw8.live/player?url=",
