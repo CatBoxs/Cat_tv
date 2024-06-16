@@ -1,8 +1,0 @@
-{ "storeHouse": [ 
-    { "sourceName": "白歌", "sourceUrl": "https://gitee.com/soundy-dust/cat_-tv/raw/master/api/api.json" }, 
-    { "sourceName": "OK", "sourceUrl": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt" }, 
-    { "sourceName": "饭太硬", "sourceUrl": "http://www.饭太硬.top/tv/" }, 
-    { "sourceName": "肥猫", "sourceUrl": "http://肥猫.live" }, 
-    { "sourceName":"小米","sourceUrl":"http://xhww.fun/小米/DEMO.json"}
-    ] 
-}
