@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://gitee.com/soundy-dust/cat_-tv/raw/master/api/api.json",
+            "url": "./api.json",
             "name": "有声尘"
         },
         {
-            "url": "https://gitee.com/soundy-dust/cat_-tv/raw/master/api/cs.json",
+            "url": "./cs.json",
             "name": "测试"
         },
         {
