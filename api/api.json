@@ -44,10 +44,10 @@
         },
         {
             "key": "华为资源",
-            "name": "官_备用",
+            "name": "官_推荐",
             "type": 1,
-            "api": "https://huawei8.live/api.php/provide/vod/?ac=list", // 83853   
-            "playUrl": "https://huawei8.live/player?url=",  //    https://dp.hw8.live/player?url=
+            "api": "https://hw8.live/api.php/provide/vod/?ac=list", // 83853   https://hw8.live/api.php/provide/vod/?ac=list
+            "playUrl": "https://player.huawei8.live/player?url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
@@ -65,7 +65,7 @@
             "key": "黑木耳资源",
             "name": "官_A",
             "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list", //  36565
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list", //  36586
             "parses": [
                 {
                     "name": "heimuer",
@@ -87,11 +87,29 @@
             ]
         },
         {
-            "key": "酷秒",
+            "key": "喵派对资源网",
             "name": "官_B",
             "type": 1,
-            "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/at/json/", //  75131
-            "playUrl": "json:https://svip.ikum.cc:1213/home/api?type=ys&cc=&uid=4975094&key=bdefhlrwxCHIMPSY56&url=",
+            "api": "https://www.lezy.lol/api.php/provide/vod/at/json/", //  70027
+            "playUrl": "https://bfq.lezy.lol/?url=", //   https://www.iqiyi.lol/videolg/?url=  https://www.iqiyi.lol/videos/?url= 
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 0,
+            "categories": [
+                "动漫",
+                "综艺",
+                "国产剧",
+                "预告片",
+                "电影解说"
+            ]
+        },
+        {
+            "key": "酷秒",
+            "name": "官_C",
+            "type": 1,
+            "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/at/json/", //  75151
+            "playUrl": "json:https://svip.ikum.cc:1213/home/api?type=ys&cc=m3u8&uid=5157304&key=dilmnuvwDEFOUV2369&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
@@ -112,9 +130,9 @@
         },
         {
             "key": "火花资源",
-            "name": "官_C",
+            "name": "官_D",
             "type": 1,
-            "api": "https://cj.huohua.vip/api.php/provide/vod/at/json/", // 53681
+            "api": "https://cj.huohua.vip/api.php/provide/vod/at/json/", // 53698
             "playUrl": "json:https://json.jxapi.top/api/?key=a8HNQTOJ0lbYqf9sy4&url=", 
             "playerType": 1,
             "searchable": 1,
@@ -129,9 +147,9 @@
         },
         {
             "key": "二爷影院",
-            "name": "官_D",
+            "name": "官_E",
             "type": 1,
-            "api": "http://qu.lzxq.vip/api.php/provide/vod/", // 61485
+            "api": "http://qu.lzxq.vip/api.php/provide/vod/", // 61505
             "playUrl": "json:https://w8s.top/?url=", //    https://w8s.top/?url=  https://b.lzxq.vip/player/?url=
             "searchable": 1,
             "quickSearch": 1,
@@ -142,6 +160,7 @@
                 "动漫"
             ]
         },
+        
         {
             "key": "动漫巴士",
             "name": "动漫_A",
