@@ -146,22 +146,6 @@
             ]
         },
         {
-            "key": "二爷影院",
-            "name": "官_E",
-            "type": 1,
-            "api": "http://qu.lzxq.vip/api.php/provide/vod/", // 61505
-            "playUrl": "json:https://w8s.top/?url=", //    https://w8s.top/?url=  https://b.lzxq.vip/player/?url=
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
-        },
-        
-        {
             "key": "动漫巴士",
             "name": "动漫_A",
             "type": 3,
