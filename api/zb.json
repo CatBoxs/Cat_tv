@@ -4,11 +4,11 @@
         "url": "https://github.moeyy.xyz/raw.githubusercontent.com/CatBoxs/Cat_tv/main/api/tv.txt"
     },
     {
-        "name": "直播2",
-        "url": "https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/tvboxtv.txt"
-    },
-    {
         "name": "直播3",
         "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    },
+    {
+        "name": "直播2",
+        "url": "https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/tvboxtv.txt"
     }
 ]
