@@ -46,7 +46,7 @@
             "key": "华为资源",
             "name": "官_推荐",
             "type": 1,
-            "api": "https://hw8.live/api.php/provide/vod/?ac=list", // 83853   https://hw8.live/api.php/provide/vod/?ac=list
+            "api": "https://hw8.live/api.php/provide/vod/?ac=list", // 88494   https://huawei8.live/api.php/provide/vod/?ac=list
             "playUrl": "https://player.huawei8.live/player?url=",
             "playerType": 1,
             "searchable": 1,
@@ -61,11 +61,11 @@
                 "短剧"
             ]
         },
-        {
+         {
             "key": "黑木耳资源",
             "name": "官_A",
             "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list", //  36586
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list", //  36687 and 45820
             "parses": [
                 {
                     "name": "heimuer",
@@ -90,8 +90,8 @@
             "key": "喵派对资源网",
             "name": "官_B",
             "type": 1,
-            "api": "https://www.lezy.lol/api.php/provide/vod/at/json/", //  70027
-            "playUrl": "https://bfq.lezy.lol/?url=", //   https://www.iqiyi.lol/videolg/?url=  https://www.iqiyi.lol/videos/?url= 
+            "api": "https://www.lezy.lol/api.php/provide/vod/at/json/", //  70599
+            "playUrl": "https://www.iqiyi.lol/videolg/?url=", //    https://www.iqiyi.lol/videos/?url=    
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
@@ -108,22 +108,21 @@
             "key": "酷秒",
             "name": "官_C",
             "type": 1,
-            "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/at/json/", //  75151
+            "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/at/json/", //  75459
             "playUrl": "json:https://svip.ikum.cc:1213/home/api?type=ys&cc=m3u8&uid=5157304&key=dilmnuvwDEFOUV2369&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
             "categories": [
+                "电影",
                 "动漫",
                 "综艺",
-                "儿童",
                 "连续剧",
                 "国产剧",
                 "港台剧",
                 "日韩剧",
                 "欧美剧",
-                "国产剧",
                 "其他剧",
                 "哔哩哔哩"
             ]
@@ -132,8 +131,8 @@
             "key": "火花资源",
             "name": "官_D",
             "type": 1,
-            "api": "https://cj.huohua.vip/api.php/provide/vod/at/json/", // 53698
-            "playUrl": "json:https://json.jxapi.top/api/?key=a8HNQTOJ0lbYqf9sy4&url=", 
+            "api": "https://cj.huohua.vip/api.php/provide/vod/at/json/", // 53863
+            "playUrl": "json:https://json.jxapi.top/api/?key=a8HNQTOJ0lbYqf9sy4&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
@@ -339,6 +338,25 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://weixine.net/sub/dyg.json"
+        },
+        {
+            "key": "云星1080",
+            "name": "云星1080",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.4u4.cn/api.php/app/"
+        },
+        {
+            "key": "4k",
+            "name": "云星4k",
+            "type": 3,
+            "api": "csp_Quark4K",
+            "searchable": 1,
+            "filterable": 0,
+            "jar": "http://itvbox.cc/云星日记/jars/公众号云星日记4k.jar"
         },
         {
             "key": "天天弹幕",
