@@ -160,6 +160,16 @@
             }
         },
         {
+            "name": "qq",
+            "type": 0,
+            "url": "https://player.56aq.com/player/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "okhttp/3.12.0"
+                }
+            }
+        },
+        {
             "name": "pg",
             "type": 0,
             "url": "https://www.pangujiexi.com/pangu/?url=",
