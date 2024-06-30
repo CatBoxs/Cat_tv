@@ -89,7 +89,7 @@
             "name": "官_D",
             "type": 1,
             "api": "https://cj.huohua.vip/api.php/provide/vod/at/json/", // 53863
-            "playUrl": "json:https://json.jxapi.top/api/?key=a8HNQTOJ0lbYqf9sy4&url=",
+            "playUrl": "https://json.jxapi.top/bfq/?key=a8HNQTOJ0lbYqf9sy4&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
