@@ -160,9 +160,9 @@
             }
         },
         {
-            "name": "qq",
+            "name": "by",
             "type": 0,
-            "url": "https://player.56aq.com/player/?url=",
+            "url": "https://b.byvv.cc/player/?url=",
             "ext": {
                 "header": {
                     "user-agent": "okhttp/3.12.0"
