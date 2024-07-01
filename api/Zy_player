@@ -66,7 +66,7 @@
             "name": "官_C",
             "type": 1,
             "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/at/json/", //  75459
-            "playUrl": "json:https://svip.ikum.cc:1213/home/api?type=ys&cc=m3u8&uid=5157304&key=dilmnuvwDEFOUV2369&url=",
+            "playUrl": "https://svip.ikum.cc:1213/dm/?uid=5157304&key=dilmnuvwDEFOUV2369&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
