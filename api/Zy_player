@@ -125,6 +125,17 @@
                 "综艺",
                 "悬疑"
             ]
+        },
+        {
+            "key": "优质资源",
+            "name": "备用",
+            "type": 0,
+            "api": "https://api.1080zyku.com/inc/ldg_api_all.php", // 55759
+            "playUrl": "https://vip.zykbf.com/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1
         }
     ],
     "parses": [
