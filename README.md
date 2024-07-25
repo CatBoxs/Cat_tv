@@ -42,7 +42,7 @@
 |                            明日(直播)                                |                            明日(设置)                                |
 | ![明日直播](./api/data/image/TV_1.jpg)  | ![明日-接口](./api/data/image/TV_2.jpg)                       |
 |                            ZyPlayer(首页)                            |                            ZyPlayer(播放)                            |
-| ![ZyPlayer-首页](./api/data/image/ZyPlayer_1.png) | ![ZyPlayer-播放](./api/data/image/ZyPlayer_2.png) |
+| ![ZyPlayer-首页](./api/data/image/ZyPlayer_1.png) | ![ZyPlayer-播放](./api/data/image/Zyplayer_2.png) |
 
 </details>
 
