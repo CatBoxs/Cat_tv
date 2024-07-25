@@ -3,12 +3,12 @@
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问 🔕</h3>
 
 <p align="center">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/fanmingming/live?style=flat-square">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/fanmingming/live?style=flat-square">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/fanmingming/live?style=flat-square">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/fanmingming/live?style=flat-square">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/fanmingming/live?style=flat-square">
-<img alt="GitHub" src="https://img.shields.io/github/license/fanmingming/live?style=flat-square">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CatBoxs/Cat_tv?style=flat-square">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/CatBoxs/Cat_tv?style=flat-square">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/CatBoxs/Cat_tv?style=flat-square">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/CatBoxs/Cat_tv?style=flat-square">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/CatBoxs/Cat_tv?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/CatBoxs/Cat_tv?style=flat-square">
 </p>
 
 ---
