@@ -240,6 +240,46 @@
             }
         },
         {
+            "name": "WS_1",
+            "type": 1,
+            "url": "http://w8s.top/home/api?type=ys&uid=3427199&key=bkmuwABCDEMOPTW026&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "WS_2",
+            "type": 1,
+            "url": "http://w8s.top/home/api?type=ys&uid=3412688&key=begkpquzABDHKPSVX5&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "WS_3",
+            "type": 1,
+            "url": "http://w8s.top/home/api?type=ys&uid=3034089&key=ahpruxyBCINOQRVX79&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "WS_4",
+            "type": 1,
+            "url": "http://w8s.top/home/api?type=ys&uid=3058561&key=chklnstuBDEIKRTW37&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
             "name": "QL",
             "type": 0,
             "url": "https://pl.a6club.com/player/?url=",
