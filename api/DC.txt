@@ -1,12 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/公告.json",
-      "name": "🇨🇳 公告"
-    },
-    
-    {
-      "url": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/api.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CatBoxs/Cat_tv/main/api/api.json",
       "name": "🇨🇳 荐影"
     },
     {
