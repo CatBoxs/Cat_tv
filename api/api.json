@@ -6,7 +6,7 @@
     ⛔多仓：https://qixing.myhkw.com/DC.txt。⛔
 */
 {
-    "spider": "./data/jar/xyq.jar;;md5;705ba6e23c4384c37a11dd904727520b",
+    "spider": "./data/jar/XYQ.jar;;md5;705ba6e23c4384c37a11dd904727520b",
     "wallpaper": "https://www.dmoe.cc/random.php",
     "warningText": "荐影免费整理维护：资源来自网络，无盈利，纯技术分享，如有冒犯请联系（qq邮箱：2661136929@qq.com）删除。",
     "lives": [
