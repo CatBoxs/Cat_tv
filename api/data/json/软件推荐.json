@@ -1,0 +1,187 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "群号：984401065",
+                "url": "暂无直链",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/QQ.png",
+                "version": "QQ群"
+            },
+            {
+                "name": "安装指南",
+                "url": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/公告/提示.png",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/公告/提示.png",
+                "version": "8月18日"
+            },
+            {
+                "name": "音悦",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/YY_1.5.0.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/音悦.png",
+                "version": "1.5.0（音乐）"
+            },
+            {
+                "name": "岸听音乐",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/AT_2.2-beta.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/岸听音乐.png",
+                "version": "1.5.0（音乐）"
+            },
+            {
+                "name": "EasyBox（app）",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/EasyBox_1.3.9.8.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/EsayBox.png",
+                "version": "1.3.9.8（影视）"
+            },
+            {
+                "name": "荐影plus",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/plus_3.2.2.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/荐影.png",
+                "version": "3.10（影视）"
+            },
+            {
+                "name": "iBox",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/iBox_2.1.4.ipa",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/iBox.png",
+                "version": "2.1.4（影视）"
+            },
+            {
+                "name": "荐影TV",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/TV_3.2.2.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/荐影.png",
+                "version": "3.10（影视）"
+            },
+            {
+                "name": "Zyplayer（pc）",
+                "url": "https://github.moeyy.xyz/https://github.com/Hiram-Wong/ZyPlayer/releases/download/v3.3.7/zyplayer-win-3.3.7-x64.exe",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/ZyPlayer.png",
+                "version": "3.3.7（影视）"
+            }
+        ]
+    },
+    {
+        "name": "必看",
+        "list": [
+            {
+                "name": "群号：984401065",
+                "url": "暂无直链",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/QQ.png",
+                "version": "QQ群"
+            },
+            {
+                "name": "公告",
+                "url": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/公告/必看.jpg",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/公告/必看.jpg",
+                "version": "8月18日"
+            },
+            {
+                "name": "安装指南",
+                "url": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/公告/提示.png",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/公告/提示.png",
+                "version": "8月18日"
+            }
+        ]
+    },
+    {
+        "name": "荐影",
+        "list": [
+            {
+                "name": "荐影",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/JY_1.1.1.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/荐影.png",
+                "version": "3.10（影视）"
+            },
+            {
+                "name": "荐影plus",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/plus_3.2.2.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/荐影.png",
+                "version": "3.10（影视）"
+            },
+            {
+                "name": "荐影TV",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/TV_3.2.2.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/荐影.png",
+                "version": "3.10（影视）"
+            }
+        ]
+    },
+    {
+        "name": "APP",
+        "list": [
+            {
+                "name": "EasyBox",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/EasyBox_1.3.9.8.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/EsayBox.png",
+                "version": "1.3.9.8（影视）"
+            },
+            {
+                "name": "音悦",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/YY_1.5.0.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/音悦.png",
+                "version": "1.5.0（音乐）"
+            },
+            {
+                "name": "云母音乐",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/YM_1.0.6.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/云母音乐.png",
+                "version": "1.0.6（音乐）"
+            },
+            {
+                "name": "岸听音乐",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/AT_2.2-beta.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/岸听音乐.png",
+                "version": "1.5.0（音乐）"
+            },
+            {
+                "name": "尼卡音乐",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/NK_1.0.5.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/尼卡音乐.png",
+                "version": "1.0.5（音乐）"
+            }
+        ]
+    },
+    {
+        "name": "IOS",
+        "list": [
+            {
+                "name": "iBox",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/iBox_2.1.4.ipa",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/iBox.png",
+                "version": "2.1.4（影视）"
+            }
+        ]
+    },
+    {
+        "name": "TV",
+        "list": [
+            {
+                "name": "荐影TV",
+                "url": "https://gitee.com/soundy-dust/cat_tv/releases/download/Releases/TV_3.2.2.apk",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/荐影.png",
+                "version": "3.10（影视）"
+            }
+        ]
+    },
+    {
+        "name": "PC",
+        "list": [
+            {
+                "name": "Zyplayer",
+                "url": "https://github.moeyy.xyz/https://github.com/Hiram-Wong/ZyPlayer/releases/download/v3.3.7/zyplayer-win-3.3.7-x64.exe",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/ZyPlayer.png",
+                "version": "3.3.7（影视）"
+            },
+            {
+                "name": "TunFree",
+                "url": "https://github.moeyy.xyz/https://github.com/CatBoxs/Cat_tv/releases/download/%E8%BD%AF%E4%BB%B6/TuneFree_1.0.9.exe",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/TunFree.png",
+                "version": "1.0.6（音乐）"
+            },
+            {
+                "name": "方格音乐",
+                "url": "https://github.moeyy.xyz/https://github.com/CatBoxs/Cat_tv/releases/download/%E8%BD%AF%E4%BB%B6/FG_1.6.1.exe",
+                "icon": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/icon/方格音乐.png",
+                "version": "1.6.1（音乐）"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+{
+  "urls": [
+    {
+      "url": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/公告.json",
+      "name": "🇨🇳 公告"
+    },
+    
+    {
+      "url": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/api.json",
+      "name": "🇨🇳 荐影"
+    },
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "🇨🇳 小米"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "🇨🇳 摸鱼"
+    },
+    {
+      "url": "http://肥猫.com/",
+      "name": "🇨🇳 肥猫"
+    },
+    {
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "name": "🇨🇳 道长"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "🇨🇳 香雅情"
+    }
+  ]
+}

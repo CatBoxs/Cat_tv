@@ -1,0 +1,22 @@
+[
+    {
+        "name": "爱漫",
+        "url": "https://cc.appma.cc/api.php/provide/vod/?ac=list",
+        "parse_url": "",
+        "cate_exclude": {
+            "type_id": 20,
+            "type_pid": 0,
+            "type_name": "QQ交流群：820569697 采集➕解析官网：web.appma.cc"
+        },
+        "class_name": "",
+        "class_url": ""
+    },
+    {
+        "name": "小猫咪",
+        "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
+        "parse_url": "",
+        "cate_exclude": "小破站|短剧|成人|其他|资讯|影视资讯|明星资讯|演员|内地明星|港台明星|欧美明星|日韩明星|QQ群9342027",
+        "class_name": "",
+        "class_url": ""
+    }
+]

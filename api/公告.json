@@ -1,0 +1,325 @@
+/*  荐影声明：
+    ⛔以下资源来源：如有冒犯请联系（qq邮箱：2661136929@qq.com）删除;⛔
+    ⛔[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买];⛔
+    ⛔https://github.com/PizazzGY/TVBox/tree/main?tab=readme-ov-file;⛔
+    ⛔运输车 https://weixine.net/ysc.json;⛔
+    ⛔https://qixing.myhkw.com/DC.txt。⛔
+*/
+{
+    "spider": "./data/jar/XYQ.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
+    "wallpaper": "https://www.dmoe.cc/random.php",
+    "warningText": "荐影免费整理维护：资源来自网络，无盈利，纯技术分享，如有冒犯请联系（qq邮箱：2661136929@qq.com）删除。",
+    "lives": [
+        {
+            "name": "🇨🇳 IPTV",
+            "type": 0,
+            "url": "./TV.txt",
+            "playerType": 1,
+            "ua": "okhttp/4.1.0",
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png",
+            "timeout": 10
+        },
+        {
+            "name": "🇨🇳 CCTV",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CatBoxs/Cat_tv/main/api/TV.txt",
+            "playerType": 1,
+            "ua": "okhttp/4.1.0",
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png",
+            "timeout": 10
+        }
+    ],
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "因奇妙应用广场彻底关闭，因此后面可能关一下荐影这个接口，让用币买了这个软件的兄弟加一下群后续也会添加一些兄弟们推荐和个人感觉好用的接口进去，以保证接口后续能正常使用，QQ群：984401065",
+            "type": 3,
+            "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "./data/js/豆瓣.json" //  https://weixine.net/js/douban.js
+        }
+    ],
+    "parses": [
+        {
+            "name": "Web",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "Demo",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "JX",
+            "type": 0,
+            "url": "https://jx.jiexila.com/?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        }
+    ],
+    "rules": [
+        {
+            "name": "暴风",
+            "hosts": [
+                "bfzy",
+                "bfbfvip",
+                "bfengbf"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
+            ]
+        },
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                ".cdnlz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "17.19"
+            ]
+        }
+    ],
+    "flags": [
+        "youku",
+        "优酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "letv",
+        "leshi",
+        "乐视",
+        "sohu",
+        "搜狐",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "bilibili",
+        "哔哩",
+        "哔哩哔哩"
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ]
+}
