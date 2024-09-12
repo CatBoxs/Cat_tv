@@ -6,7 +6,7 @@
     ⛔多仓：https://qixing.myhkw.com/DC.txt。⛔
 */
 {
-    "spider": "./data/jar/XYQ.jar;;md5;705ba6e23c4384c37a11dd904727520b",
+    "spider": "./data/jar/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
     "wallpaper": "https://www.dmoe.cc/random.php",
     "warningText": "荐影免费整理维护：资源来自网络，无盈利，纯技术分享，如有冒犯请联系（qq邮箱：2661136929@qq.com）删除。",
     "lives": [
@@ -344,24 +344,16 @@
             "url": "Demo"
         },
         {
+            "name": "1080专线",
+            "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
             "name": "QQ专线",
-            "url": "http://jx.appma.cc?url=",
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
-        },
-        {
-            "name": "SX专线",
-            "url": "https://cdn.suxun.site/api/?key=Vmo3WNsFRY20yOfGZy&url=",
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
-        },
-        {
-            "name": "QW专线",
-            "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
+            "url": "http://1.xiaomi666.work.gd/aini10.php?url=",
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
             },
