@@ -21,6 +21,10 @@
       "name": "🇨🇳 道长"
     },
     {
+      "url": "https://weixine.net/ysc.json",
+      "name": "🇨🇳 运输车"
+    },
+    {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "🇨🇳 香雅情"
     }
